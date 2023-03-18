@@ -4,9 +4,8 @@
 ---
 ### Personal data
 - 김창기 (1998.12.07)
-- E-mail : ckckckck1207@naver.com
+- E-mail : ckyou1207@gmail.com
 - GitHub : https://github.com/cheris8
-- Blog : https://
 
 ### Education
 - 한국교통대학교 기계공학부 (2017.03 ~ 2020)
@@ -19,7 +18,30 @@
 ## *Projects*
 ---
 - ResNet50 전이학습을 활용한 손동작 인식 기반 가위바위보 게임 구현
+   - 웹캠을 활용하여 가위바위보 손동작을 인식하고, 컴퓨터와 가위바위보 하는 게임을 구현
    - 2022년도 한국컴퓨터정보학회 학술논문 (2저자)
+   - `Python` `Keras` `Deep Learning` `CV`
+   - [논문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11037679)
+
+
+- 레스토랑 리뷰 감성분석
+    - pre-trained model을 사용하여 yelp 데이터셋 감성분석
+    - `Python` `Deep Learning` `NLP` `HuggingFace`
+    - [Github](https://github.com/keyAI-ops/yelp_sentiment_classification)
+
+
+- 뉴스 기계독해
+    - pretrained된 kobert, mdeberta(gan model) 사용
+    - Aihub 기계독해 데이터셋으로 파인튜닝 및 klue 데이터셋으로 테스트
+    - Levenshtein Distance 알고리즘 사용해 성능 측정
+    - `Python` `Deep Learning` `NLP` `HuggingFace`
+    - [Github](https://github.com/keyAI-ops/K_news_MRC)
+
+
+- 주식 종목 추천 및 금융 뉴스 감성 분석
+    - 룰베이스 모델을 통한 주식 종목 추천, 추천된 종목 뉴스 크롤링 및 긍부정 분류, 간단한 웹 구현
+    - 
+    - `Python` `Deep Learning` `NLP` `
 
 ## *Courses*
 ---
