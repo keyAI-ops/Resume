@@ -26,22 +26,22 @@
 
 - 레스토랑 리뷰 감성분석
     - pre-trained model을 사용하여 yelp 데이터셋 감성분석
-    - `Python` `Deep Learning` `NLP` `HuggingFace`
+    - `Python` `Pytorch` `Deep Learning` `NLP` `HuggingFace`
     - [Github](https://github.com/keyAI-ops/yelp_sentiment_classification)
 
 
-- 뉴스 기계독해
+- 한국 뉴스 기계독해
     - pretrained된 kobert, mdeberta(gan model) 사용
     - Aihub 기계독해 데이터셋으로 파인튜닝 및 klue 데이터셋으로 테스트
     - Levenshtein Distance 알고리즘 사용해 성능 측정
-    - `Python` `Deep Learning` `NLP` `HuggingFace`
+    - `Python` `Pytorch` `Deep Learning` `NLP` `HuggingFace`
     - [Github](https://github.com/keyAI-ops/K_news_MRC)
 
 
 - 주식 종목 추천 및 금융 뉴스 감성 분석
     - 룰베이스 모델을 통한 주식 종목 추천, 추천된 종목 뉴스 크롤링 및 긍부정 분류, 간단한 웹 구현
     - 
-    - `Python` `Deep Learning` `NLP` `
+    - `Python` `Pytorch` `Deep Learning` `NLP`
 
 ## *Courses*
 ---
