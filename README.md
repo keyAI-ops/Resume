@@ -5,7 +5,7 @@
 ### Personal data
 - 김창기 (1998.12.07)
 - E-mail : ckyou1207@gmail.com
-- GitHub : https://github.com/cheris8
+- GitHub : https://github.com/keyAI-ops
 
 ### Education
 - 한국교통대학교 기계공학부 (2017.03 ~ 2020)
