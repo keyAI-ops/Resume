@@ -40,8 +40,8 @@
 
 - 주식 종목 추천 및 금융 뉴스 감성 분석
     - 룰베이스 모델을 통한 주식 종목 추천, 추천된 종목 뉴스 크롤링 및 긍부정 분류, 간단한 웹 구현
-    - 
     - `Python` `Pytorch` `Deep Learning` `NLP`
+    - [Github](https://github.com/keyAI-ops/finance_news_sentiment-summarization)
 
 ## *Courses*
 ---
